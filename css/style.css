@@ -1,0 +1,26 @@
+.header {
+  border: 1px solid black;
+  height: 90vh;
+  background-image: url('../img/background.jpeg');
+  background-size: cover;
+}
+
+html {
+  font-size: 16px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+
+nav ul li {
+  display: inline-block;
+  padding: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  color: purple;
+}
