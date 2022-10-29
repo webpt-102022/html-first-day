@@ -24,3 +24,13 @@ nav ul li a {
   font-family: Arial, Helvetica, sans-serif;
   color: purple;
 }
+
+span.red {
+  color: red;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+a.link {
+  color: red;
+}
